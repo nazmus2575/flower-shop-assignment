@@ -145,7 +145,7 @@ header {
 /* hot deal section style */
 
 .hot-deal {
-    height: 400px;
+    height: 500px;
     background: rgba(229, 84, 115, 0.05);
     justify-content: center;
     margin-bottom: 100px;
@@ -244,6 +244,7 @@ header {
     text-align: center;
     font-size: 18px;
     font-weight: 400;
+    padding-top: 5px;
 }
 
 .get-deal-content {
