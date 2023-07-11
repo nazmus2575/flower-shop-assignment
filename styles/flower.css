@@ -1,5 +1,57 @@
+/* Setup styles*/
+
 * {
     margin: 0px;
     padding: 0px;
 }
 
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.title {
+    color: #272727;
+    font-size: 60px;
+    font-weight: 800;
+}
+
+.text {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.btn {
+    border-radius: 8px;
+    background: #E55473;
+    border: 0px;
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 15px 28px;
+}
+
+/* header styles */
+
+header {
+    background-color: rgba(229, 84, 115, 0.10);
+    height: 600px;
+    display: flex;
+}
+
+.header-text {
+    margin: 25px 0px;
+}
+
+.header-flower {
+    /* background-size: cover; */
+    background-position: bottom;
+    margin-top: 20px;
+    margin-left: 60px;
+
+}
+
+.content {
+    width: 500px;
+    margin: 140px 0px 0px 175px;
+}
