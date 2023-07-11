@@ -61,9 +61,9 @@ header {
 
 /* featured flower styles */
 
-.featured-heading {
+/* .featured-heading {
     margin-top: 150px;
-}
+} */
 
 .featured {
     display: flex;
@@ -75,8 +75,9 @@ header {
 .featured-title {
     color: #272727;
     text-align: center;
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 800;
+    margin-top: 120px;
 }
 
 .featured-text {
@@ -147,6 +148,7 @@ header {
     height: 400px;
     background: rgba(229, 84, 115, 0.05);
     justify-content: center;
+    margin-bottom: 100px;
 }
 
 .deal-title {
@@ -177,4 +179,18 @@ header {
 
 .deal-img {
     width: 250px;
+}
+
+/* insta styles */
+
+.insta {
+    max-width: 1000px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+
+.num1 {
+    width: 235px;
 }
